@@ -1,0 +1,18 @@
+{
+  "_source": "skate. (Steam build 25414733) gameplay/skatephysicstuning, dumped with ReSkate Studio's reskate_cli ebx-values on 2026-10-06",
+  "skater_height_m": 1.81,
+  "jump_max_height_m": 1.575,
+  "jump_min_height_m": 1.35,
+  "wipeout_max_landing_speed_down_mps": 15,
+  "wipeout_max_landing_speed_horiz_mps": 20,
+  "gravity_mps2": 9.81,
+  "speed_wobble_start_mps": 13,
+  "steering_max_speed_mps": 30,
+  "wheel_radius_m": 0.029,
+  "deck_mid_length_m": 0.615,
+  "wallride_min_speed_mps": 3,
+  "wallride_max_time_s": 1,
+  "grind_edge_detect_crease_deg": 30,
+  "comfortable_drop_m": 6,
+  "real_world": {"stair_riser_m": [0.15, 0.19], "ledge_m": [0.3, 0.5], "handrail_m": [0.85, 1.05], "door_m": [2.0, 2.2]}
+}
